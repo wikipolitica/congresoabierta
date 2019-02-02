@@ -7,7 +7,7 @@ Este proyecto pretende ser replicable y transparente, tomando ventaja del sistem
 Estructura del repositorio: 
 
 - README.md: este documento
-- acuses: esta carpeta contiene los archivos PDF que se obtienen de la Plataforma Nacional DE Transparencia
+- [`acuses`:](https://github.com/wikipolitica/congresoabierto/tree/master/acuses): esta carpeta contiene los archivos PDF que se obtienen de la Plataforma Nacional DE Transparencia
 
 
 
